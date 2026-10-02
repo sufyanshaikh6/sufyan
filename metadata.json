@@ -1,0 +1,6 @@
+{
+  "name": "Ad Creative — Cinematic Advertising Studio",
+  "description": "Ad Creative is an AI-powered creative agency creating cinematic product advertisements, social media ads, product photography, and short-form commercial campaigns for D2C and consumer brands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
